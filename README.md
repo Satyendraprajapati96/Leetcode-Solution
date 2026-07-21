@@ -73,6 +73,7 @@ LeetCode-Solutions/
 | [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -112,4 +114,16 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
