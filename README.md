@@ -70,6 +70,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
@@ -103,4 +104,12 @@ LeetCode-Solutions/
 | ------- |
 | [0027-remove-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
