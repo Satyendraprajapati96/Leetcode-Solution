@@ -111,6 +111,7 @@ LeetCode-Solutions/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
