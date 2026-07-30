@@ -3,7 +3,7 @@ class Solution {
         int n=nums.length;
         int lo=0, hi=n-1;
         while(lo<=hi){
-            int mid=(lo+hi)/2;
+            int mid=(lo-hi)/2+hi;
             if(nums[mid]==target){
                  return mid;
                  }
