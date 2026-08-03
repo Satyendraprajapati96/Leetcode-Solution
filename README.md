@@ -85,6 +85,7 @@ LeetCode-Solutions/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -162,5 +163,6 @@ LeetCode-Solutions/
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
