@@ -1,0 +1,15 @@
+class Solution {
+    public int mySqrt(int x) {
+        // return (int)(Math.sqrt(x));// newton rapson method
+        // this is good but we have not write it
+        long lo=0, hi=(long)x;
+        while(lo<=hi){
+
+        long mid=lo+(hi-lo)/2;
+        if(mid*mid==(long)x) return (int)mid;
+        else if(mid*mid>(long)x) hi=mid-1;
+        else lo=mid+1;
+        }
+       return (int)hi;
+    }
+}
