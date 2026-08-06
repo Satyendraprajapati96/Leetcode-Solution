@@ -73,6 +73,7 @@ LeetCode-Solutions/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -122,6 +123,7 @@ LeetCode-Solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
@@ -147,6 +149,7 @@ LeetCode-Solutions/
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
