@@ -85,6 +85,7 @@ LeetCode-Solutions/
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@ LeetCode-Solutions/
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
