@@ -55,10 +55,12 @@ LeetCode-Solutions/
 | [0009-palindrome-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -67,6 +69,7 @@ LeetCode-Solutions/
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
