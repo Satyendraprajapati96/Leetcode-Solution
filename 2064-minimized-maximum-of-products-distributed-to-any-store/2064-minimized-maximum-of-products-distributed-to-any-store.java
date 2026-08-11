@@ -4,9 +4,9 @@ class Solution {
     if (k == 0) return false; // Avoid division by zero
     int storesNeeded = 0;
     for (int quantity : arr) {
-        // Calculate stores needed for this product type
+      
         storesNeeded += (quantity + k - 1) / k;
-        // Early exit if we already exceed n
+      
         if (storesNeeded > n) return false;
     }
     return storesNeeded <= n;
