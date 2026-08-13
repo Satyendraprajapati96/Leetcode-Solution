@@ -146,6 +146,7 @@ LeetCode-Solutions/
 | [0020-valid-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
+| [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
 | ------- |
@@ -173,6 +174,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -197,6 +199,11 @@ LeetCode-Solutions/
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
