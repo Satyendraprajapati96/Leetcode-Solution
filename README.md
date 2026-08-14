@@ -86,6 +86,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -164,6 +165,7 @@ LeetCode-Solutions/
 | [0016-3sum-closest](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Counting
@@ -200,10 +202,15 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
