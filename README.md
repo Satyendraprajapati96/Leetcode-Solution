@@ -213,4 +213,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
