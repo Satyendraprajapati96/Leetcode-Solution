@@ -217,4 +217,5 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
