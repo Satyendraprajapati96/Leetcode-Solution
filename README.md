@@ -223,4 +223,5 @@ LeetCode-Solutions/
 | [0183-customers-who-never-order](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0183-customers-who-never-order) |
 | [0596-classes-with-at-least-5-students](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0626-exchange-seats) |
+| [1795-rearrange-products-table](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1795-rearrange-products-table) |
 <!---LeetCode Topics End-->
