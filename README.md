@@ -84,6 +84,7 @@ LeetCode-Solutions/
 | [0035-search-insert-position](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
@@ -224,4 +225,12 @@ LeetCode-Solutions/
 | [0596-classes-with-at-least-5-students](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0626-exchange-seats) |
 | [1795-rearrange-products-table](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1795-rearrange-products-table) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
