@@ -57,6 +57,7 @@ LeetCode-Solutions/
 | [0069-sqrtx](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Dynamic Programming
 |  |
@@ -153,6 +154,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3340-check-balanced-string](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3340-check-balanced-string) |
 ## Trie
 |  |
@@ -239,4 +241,12 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
