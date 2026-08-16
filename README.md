@@ -83,6 +83,7 @@ LeetCode-Solutions/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
@@ -232,6 +233,7 @@ LeetCode-Solutions/
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
