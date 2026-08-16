@@ -152,6 +152,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
+| [3340-check-balanced-string](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3340-check-balanced-string) |
 ## Trie
 |  |
 | ------- |
