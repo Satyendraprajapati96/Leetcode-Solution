@@ -62,6 +62,7 @@ LeetCode-Solutions/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -151,6 +152,7 @@ LeetCode-Solutions/
 | [0012-integer-to-roman](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
@@ -235,6 +237,7 @@ LeetCode-Solutions/
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -249,4 +252,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
