@@ -68,6 +68,7 @@ LeetCode-Solutions/
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -257,4 +258,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
