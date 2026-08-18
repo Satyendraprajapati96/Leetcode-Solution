@@ -126,6 +126,7 @@ LeetCode-Solutions/
 | [0004-median-of-two-sorted-arrays](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 ## Tree
 |  |
@@ -255,6 +256,7 @@ LeetCode-Solutions/
 | ------- |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0190-reverse-bits) |
 ## Euclidean Algorithm
 |  |
 | ------- |
