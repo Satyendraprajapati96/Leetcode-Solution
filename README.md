@@ -252,6 +252,7 @@ LeetCode-Solutions/
 | [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -259,6 +260,7 @@ LeetCode-Solutions/
 | [0136-single-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0401-binary-watch](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0401-binary-watch) |
 ## Euclidean Algorithm
 |  |
 | ------- |
