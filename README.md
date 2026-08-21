@@ -96,6 +96,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
@@ -189,6 +190,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
