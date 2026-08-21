@@ -97,6 +97,7 @@ LeetCode-Solutions/
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0704-binary-search) |
+| [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
@@ -167,6 +168,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
+| [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3340-check-balanced-string](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3340-check-balanced-string) |
 ## Trie
@@ -299,4 +301,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 <!---LeetCode Topics End-->
