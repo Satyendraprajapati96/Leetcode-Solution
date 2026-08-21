@@ -57,6 +57,7 @@ LeetCode-Solutions/
 | [0012-integer-to-roman](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -92,6 +93,7 @@ LeetCode-Solutions/
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
@@ -112,6 +114,7 @@ LeetCode-Solutions/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0493-reverse-pairs) |
@@ -182,6 +185,7 @@ LeetCode-Solutions/
 | [0036-valid-sudoku](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +193,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -262,6 +267,7 @@ LeetCode-Solutions/
 | [0136-single-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0401-binary-watch) |
 ## Euclidean Algorithm
 |  |
