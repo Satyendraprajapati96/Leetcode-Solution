@@ -139,11 +139,13 @@ LeetCode-Solutions/
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
@@ -153,6 +155,7 @@ LeetCode-Solutions/
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 ## Two Pointers
@@ -210,6 +213,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
