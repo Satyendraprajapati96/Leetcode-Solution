@@ -61,6 +61,7 @@ LeetCode-Solutions/
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2413-smallest-even-multiple](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
 | [3870-count-commas-in-range](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -332,4 +333,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
