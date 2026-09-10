@@ -98,6 +98,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
@@ -324,6 +325,7 @@ LeetCode-Solutions/
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 ## Pigeonhole Principle
 |  |
@@ -337,4 +339,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
