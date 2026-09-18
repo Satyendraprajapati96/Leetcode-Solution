@@ -188,6 +188,7 @@ LeetCode-Solutions/
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
+| [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3340-check-balanced-string](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3340-check-balanced-string) |
@@ -354,4 +355,16 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
