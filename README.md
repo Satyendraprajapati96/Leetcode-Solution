@@ -61,6 +61,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2413-smallest-even-multiple](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
 | [3870-count-commas-in-range](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3870-count-commas-in-range) |
@@ -111,6 +112,7 @@ LeetCode-Solutions/
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -191,6 +193,7 @@ LeetCode-Solutions/
 | [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3340-check-balanced-string](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3340-check-balanced-string) |
 ## Trie
 |  |
@@ -234,6 +237,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0036-valid-sudoku) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
 | ------- |
