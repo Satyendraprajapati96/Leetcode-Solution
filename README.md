@@ -195,6 +195,7 @@ LeetCode-Solutions/
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3340-check-balanced-string](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3340-check-balanced-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -371,4 +372,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
