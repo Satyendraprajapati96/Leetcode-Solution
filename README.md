@@ -112,6 +112,7 @@ LeetCode-Solutions/
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
+| [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -220,6 +221,7 @@ LeetCode-Solutions/
 | [0290-word-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Sorting
 |  |
@@ -388,4 +390,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->
