@@ -197,6 +197,7 @@ LeetCode-Solutions/
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
+| [0859-buddy-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1544-make-the-string-great](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1544-make-the-string-great) |
@@ -224,6 +225,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0859-buddy-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
