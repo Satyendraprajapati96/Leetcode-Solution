@@ -196,6 +196,7 @@ LeetCode-Solutions/
 | [0290-word-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0520-detect-capital) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [0859-buddy-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
