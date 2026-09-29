@@ -71,6 +71,7 @@ LeetCode-Solutions/
 | [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +119,7 @@ LeetCode-Solutions/
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
@@ -319,6 +321,7 @@ LeetCode-Solutions/
 | [0046-permutations](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0401-binary-watch) |
+| [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -329,6 +332,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0401-binary-watch) |
+| [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -413,4 +417,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
