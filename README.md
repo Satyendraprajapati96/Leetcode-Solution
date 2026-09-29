@@ -110,6 +110,7 @@ LeetCode-Solutions/
 | [0704-binary-search](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
@@ -200,6 +201,7 @@ LeetCode-Solutions/
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [0859-buddy-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1544-make-the-string-great](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
@@ -407,4 +409,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
