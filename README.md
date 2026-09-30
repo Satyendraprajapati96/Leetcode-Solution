@@ -61,6 +61,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1323-maximum-69-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1323-maximum-69-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2413-smallest-even-multiple](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
@@ -295,6 +296,7 @@ LeetCode-Solutions/
 | ------- |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
+| [1323-maximum-69-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1323-maximum-69-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Monotonic Stack
