@@ -97,6 +97,7 @@ LeetCode-Solutions/
 | [0041-first-missing-positive](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
@@ -195,6 +196,7 @@ LeetCode-Solutions/
 | [0038-count-and-say](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
@@ -408,6 +410,7 @@ LeetCode-Solutions/
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0068-text-justification) |
 | [3612-process-string-with-special-operations-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Enumeration
 |  |
