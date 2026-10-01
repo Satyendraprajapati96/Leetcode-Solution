@@ -77,6 +77,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -182,6 +183,7 @@ LeetCode-Solutions/
 | [0027-remove-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
@@ -266,6 +268,7 @@ LeetCode-Solutions/
 | [0020-valid-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [1544-make-the-string-great](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 ## Matrix
@@ -354,6 +357,7 @@ LeetCode-Solutions/
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
