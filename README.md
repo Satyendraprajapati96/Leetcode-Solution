@@ -71,6 +71,7 @@ LeetCode-Solutions/
 | ------- |
 | [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
@@ -338,6 +339,7 @@ LeetCode-Solutions/
 | [0191-number-of-1-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0401-binary-watch) |
 | [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 ## Euclidean Algorithm
