@@ -117,6 +117,7 @@ LeetCode-Solutions/
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1539-kth-missing-positive-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -253,6 +254,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Counting
@@ -260,6 +262,7 @@ LeetCode-Solutions/
 | ------- |
 | [0169-majority-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -341,6 +344,7 @@ LeetCode-Solutions/
 | [0287-find-the-duplicate-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0401-binary-watch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 ## Euclidean Algorithm
 |  |
