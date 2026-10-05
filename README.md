@@ -119,6 +119,7 @@ LeetCode-Solutions/
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1539-kth-missing-positive-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
+| [1598-crawler-log-folder](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1598-crawler-log-folder) |
 | [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -217,6 +218,7 @@ LeetCode-Solutions/
 | [0944-delete-columns-to-make-sorted](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1544-make-the-string-great](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -280,6 +282,7 @@ LeetCode-Solutions/
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1598-crawler-log-folder) |
 ## Matrix
 |  |
 | ------- |
