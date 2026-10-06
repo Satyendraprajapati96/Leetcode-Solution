@@ -72,6 +72,7 @@ LeetCode-Solutions/
 | [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
@@ -189,6 +190,7 @@ LeetCode-Solutions/
 | [0234-palindrome-linked-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
@@ -207,6 +209,7 @@ LeetCode-Solutions/
 | [0068-text-justification](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0520-detect-capital) |
