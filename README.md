@@ -185,6 +185,7 @@ LeetCode-Solutions/
 | [0016-3sum-closest](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
@@ -208,6 +209,7 @@ LeetCode-Solutions/
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0402-remove-k-digits) |
