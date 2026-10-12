@@ -62,6 +62,7 @@ LeetCode-Solutions/
 | [0509-fibonacci-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1323-maximum-69-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1323-maximum-69-number) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2413-smallest-even-multiple](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
@@ -226,6 +227,7 @@ LeetCode-Solutions/
 | [1598-crawler-log-folder](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
