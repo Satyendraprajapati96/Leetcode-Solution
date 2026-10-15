@@ -66,6 +66,7 @@ LeetCode-Solutions/
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2413-smallest-even-multiple](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
+| [2947-count-beautiful-substrings-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2947-count-beautiful-substrings-i) |
 | [3870-count-commas-in-range](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -234,6 +235,7 @@ LeetCode-Solutions/
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2947-count-beautiful-substrings-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2947-count-beautiful-substrings-i) |
 | [3340-check-balanced-string](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
@@ -259,6 +261,7 @@ LeetCode-Solutions/
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2947-count-beautiful-substrings-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2947-count-beautiful-substrings-i) |
 ## Sorting
 |  |
 | ------- |
@@ -408,6 +411,7 @@ LeetCode-Solutions/
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
+| [2947-count-beautiful-substrings-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2947-count-beautiful-substrings-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -421,6 +425,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2413-smallest-even-multiple) |
+| [2947-count-beautiful-substrings-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2947-count-beautiful-substrings-i) |
 ## Design
 |  |
 | ------- |
@@ -447,6 +452,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
+| [2947-count-beautiful-substrings-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2947-count-beautiful-substrings-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
