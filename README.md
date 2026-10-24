@@ -55,6 +55,7 @@ LeetCode-Solutions/
 | [0007-reverse-integer](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0202-happy-number) |
@@ -357,6 +358,7 @@ LeetCode-Solutions/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0190-reverse-bits) |
