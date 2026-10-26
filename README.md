@@ -216,6 +216,7 @@ LeetCode-Solutions/
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0392-is-subsequence) |
@@ -355,6 +356,7 @@ LeetCode-Solutions/
 | [0039-combination-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0401-binary-watch) |
 | [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
