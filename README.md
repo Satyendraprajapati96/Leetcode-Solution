@@ -119,6 +119,7 @@ LeetCode-Solutions/
 | [0561-array-partition](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -416,6 +417,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
 | [2947-count-beautiful-substrings-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2947-count-beautiful-substrings-i) |
 ## Pigeonhole Principle
