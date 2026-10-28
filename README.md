@@ -132,6 +132,7 @@ LeetCode-Solutions/
 | [2085-count-common-words-with-one-occurrence](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2256-minimum-average-difference](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2256-minimum-average-difference) |
 | [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -419,6 +420,7 @@ LeetCode-Solutions/
 | [0303-range-sum-query-immutable](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0848-shifting-letters) |
+| [2256-minimum-average-difference](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2256-minimum-average-difference) |
 | [2947-count-beautiful-substrings-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2947-count-beautiful-substrings-i) |
 ## Pigeonhole Principle
 |  |
