@@ -72,6 +72,7 @@ LeetCode-Solutions/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0338-counting-bits) |
@@ -189,6 +190,7 @@ LeetCode-Solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0027-remove-element) |
@@ -208,6 +210,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
@@ -471,4 +474,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/2305-fair-distribution-of-cookies) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
