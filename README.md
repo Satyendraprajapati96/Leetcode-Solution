@@ -56,6 +56,7 @@ LeetCode-Solutions/
 | [0009-palindrome-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0202-happy-number) |
@@ -217,6 +218,7 @@ LeetCode-Solutions/
 | [0020-valid-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0068-text-justification) |
@@ -458,6 +460,7 @@ LeetCode-Solutions/
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0068-text-justification) |
 | [0844-backspace-string-compare](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [3612-process-string-with-special-operations-i](https://github.com/Satyendraprajapati96/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
